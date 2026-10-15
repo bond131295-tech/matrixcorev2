@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Matrix Core</string>
+    <string name="w_clock">Terminal clock</string>
+    <string name="w_monitor">Live system monitor</string>
+    <string name="w_neofetch">Neofetch status card</string>
+</resources>
