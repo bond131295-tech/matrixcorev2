@@ -7,9 +7,9 @@
         android:text="operator@flip5 ~ $ date" android:textColor="#35F07A" android:textSize="11sp"
         android:fontFamily="monospace" />
     <TextClock android:layout_width="wrap_content" android:layout_height="wrap_content"
-        android:format12Hr="HH:mm" android:format24Hr="HH:mm" android:textColor="#E8F2EC"
+        android:format12Hour="HH:mm" android:format24Hour="HH:mm" android:textColor="#E8F2EC"
         android:textSize="46sp" android:textStyle="bold" android:fontFamily="monospace" />
     <TextClock android:layout_width="wrap_content" android:layout_height="wrap_content"
-        android:format12Hr="EEE, d MMM yyyy" android:format24Hr="EEE, d MMM yyyy" android:textColor="#7C8E84"
+        android:format12Hour="EEE, d MMM yyyy" android:format24Hour="EEE, d MMM yyyy" android:textColor="#7C8E84"
         android:textSize="12sp" android:fontFamily="monospace" />
 </LinearLayout>
